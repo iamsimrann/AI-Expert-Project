@@ -1,9 +1,0 @@
-Sentiment Analysis Report for Agent SIMRAN
-Positive Sentiments: 1
-Negative Sentiments: 1
-Neutral Sentiments: 1
-
-Conversation History:
-1. Hii this side simran
-2. She is a good girl
-3. I  m not a good dancer
